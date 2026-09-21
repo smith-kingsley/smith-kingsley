@@ -1,14 +1,15 @@
 ![Logo](https://github.com/smith-kingsley/smith-kingsley/blob/main/misdirection.webp?raw=true)
 
-<p align="center">
+<div align="center">
 james
 
-<p align="center">
+<div align="center">
 [listography](https://listography.com/legzakimbo)    ⸝⸝    [strawpage](https://legzakimbo.straw.page)
 
-<p align="center">
+
+<div align="center">
 @pt-hall-of-media
-<p align="center">
+<div align="center">
 ⟢
-<p align="center">
+<div align="center">
 @pt-walk-of-fame
