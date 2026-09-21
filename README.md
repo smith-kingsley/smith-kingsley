@@ -3,7 +3,6 @@
 <div align="center">
 james
 
-<div align="center">
 [listography](https://listography.com/legzakimbo)    ⸝⸝    [strawpage](https://legzakimbo.straw.page)
 
 
