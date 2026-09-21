@@ -4,7 +4,7 @@
 james
 
 <p align="center">
-[listo](https://listography.com/legzakimbo)    ⸝⸝    [straw](https://legzakimbo.straw.page)
+[listo](https://listography.com/legzakimbo)
 
 <p align="center">
 @pt-hall-of-media
