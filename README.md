@@ -2,10 +2,12 @@
 
 <div align="center">
 james
-\
+
+
 [listography](https://listography.com/legzakimbo) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [strawpage](https://legzakimbo.straw.page)
-\
-\
+
+
+
 <div align="center">
 @pt-hall-of-media
 <div align="center">
