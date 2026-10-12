@@ -4,7 +4,7 @@
 jez
 
 
-[listography](https://listography.com/legzakimbo) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [strawpage](https://legzakimbo.straw.page)
+[listography](https://listography.com/legzakimbo) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [strawpage](https://legzakimbo.straw.page) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [pronouns](https://pronouns.cc/@legzakimbo)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
