@@ -13,15 +13,11 @@ jezza
 </p>
 
 <div align="center">
-@pt-hall-of-media
+@pt-hall-of-media , @pt-walk-of-fame
 <div align="center">
 ⟢
 <div align="center">
-@pt-walk-of-fame
-<div align="center">
-⟢
-<div align="center">
-@piddlesjet
+@piddlesjet , @kaotown
 
 
 <sub>pony town's oliver plimsolls</sub>
