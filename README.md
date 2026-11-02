@@ -1,7 +1,7 @@
 ![Logo](https://github.com/smith-kingsley/smith-kingsley/blob/main/misdirection.webp?raw=true)
 
 <div align="center">
-jezza
+jez
 
 
 [listography](https://listography.com/legzakimbo) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [strawpage](https://legzakimbo.straw.page) &emsp;&emsp;&emsp; ⸝⸝ &emsp;&emsp;&emsp; [pronouns](https://pronouns.cc/@legzakimbo)
@@ -18,21 +18,29 @@ jezza
 ⟢
 <div align="center">
 @piddlesjet , @kaotown
+<div align="center">
+@knox-event
+
+┊ ┊ ┊ ┊
 
 <div align="center">
-<img width="750" height="90" alt="image" src="https://github.com/user-attachments/assets/2690d7e1-2a73-40d9-96ef-6404ebbb3924" />
+<img width="725" height="90" alt="image" src="https://github.com/user-attachments/assets/2690d7e1-2a73-40d9-96ef-6404ebbb3924" />
 <div align="center">
   
 <div align="center">
-<img width="680" height="90" alt="image" src="https://github.com/user-attachments/assets/010cd739-563c-4672-8780-1d6384925397" />
+<img width="645" height="90" alt="image" src="https://github.com/user-attachments/assets/010cd739-563c-4672-8780-1d6384925397" />
 <div align="center">
 
 <div align="center">
-<img width="750" height="77" alt="image" src="https://github.com/user-attachments/assets/9dee6831-840d-42bc-bdd5-5cb8fead5cd6" />
+<img width="750" height="69" alt="image" src="https://github.com/user-attachments/assets/9dee6831-840d-42bc-bdd5-5cb8fead5cd6" />
 <div align="center">
 
 <div align="center">
-<img width="750" height="90" alt="image" src="https://github.com/user-attachments/assets/53f2bc89-c808-4e8a-81c0-948e4aec35bb" />
+<img width="700" height="90" alt="image" src="https://github.com/user-attachments/assets/53f2bc89-c808-4e8a-81c0-948e4aec35bb" />
+<div align="center">
+
+<div align="center">
+<img width="700" height="70" alt="image" src="https://github.com/user-attachments/assets/ac4d655a-855b-4e22-a047-86daf37e1f3d" />
 <div align="center">
 
 <div align="center">
