@@ -19,5 +19,21 @@ jezza
 <div align="center">
 @piddlesjet , @kaotown
 
+<div align="center">
+<img width="750" height="90" alt="image" src="https://github.com/user-attachments/assets/2690d7e1-2a73-40d9-96ef-6404ebbb3924" />
+<div align="center">
+  
+<div align="center">
+<img width="680" height="90" alt="image" src="https://github.com/user-attachments/assets/010cd739-563c-4672-8780-1d6384925397" />
+<div align="center">
 
-<sub>pony town's oliver plimsolls</sub>
+<div align="center">
+<img width="750" height="77" alt="image" src="https://github.com/user-attachments/assets/9dee6831-840d-42bc-bdd5-5cb8fead5cd6" />
+<div align="center">
+
+<div align="center">
+<img width="750" height="90" alt="image" src="https://github.com/user-attachments/assets/53f2bc89-c808-4e8a-81c0-948e4aec35bb" />
+<div align="center">
+
+<div align="center">
+<sub>troo, troo... ,; ⩌ ;,</sub>
